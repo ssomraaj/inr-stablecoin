@@ -62,4 +62,7 @@ Step by step instructions on setting up the project and running it
 All configuration is done in hardhat.config.js & linting configurations are made in .solhint.json & .prettierrc. Configure the .env files before running the deploy and verification commands.
 
 Not audited use at your own risk.
-# inr-stablecoin
+
+Testnet INRT Smart Contracts [0xaf8a419C1B85D76487596ca3240a0D53e6022ad7](https://kovan.etherscan.io/address/0xaf8a419C1B85D76487596ca3240a0D53e6022ad7)
+Testnet Chainlink Oracle [0x2275bad4e366ee3ae0ba4daabe31c014ccd39bd9](https://kovan.etherscan.io/address/0x2275bad4e366ee3ae0ba4daabe31c014ccd39bd9)
+Tesnet DAI token [0x9cd539ac8dca5757efac30cd32da20cd955e0f8b](https://kovan.etherscan.io/address/0x9cd539ac8dca5757efac30cd32da20cd955e0f8b)
